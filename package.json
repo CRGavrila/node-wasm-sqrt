@@ -1,0 +1,24 @@
+{
+  "name": "wasm-sqrt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRGavrila/node-wasm-sqrt.git"
+  },
+  "keywords": [
+    "wasm",
+    "cpp",
+    "node"
+  ],
+  "author": "crgavrila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRGavrila/node-wasm-sqrt/issues"
+  },
+  "homepage": "https://github.com/CRGavrila/node-wasm-sqrt#readme"
+}
